@@ -1,0 +1,25 @@
+.Intro {
+  font-family: fantasy;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+h1 {
+font-style: normal;
+font-family: fantasy;
+font-weight: bold;
+color: purple;
+}
+
+h3 {
+  border: 2px solid purple
+}
+
+body {
+  font-family: cursive;
+}
+
+img {
+  border: 4px solid purple;
+  padding: 4px;
+}
